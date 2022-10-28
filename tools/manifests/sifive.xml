@@ -1,7 +1,7 @@
 <manifest>
-  <remote name="github" fetch="https://github.com/kinaraembedded/" />
+  <remote name="github" fetch="https://github.com/gytrechs" />
 
-  <default remote="github" revision="kinaraembedded_v1" />
+  <default remote="github" revision="main" />
 
   <project name="freedom-u-sdk" path="freedom-u-sdk" />
   <project name="meta-sifive" path="meta-sifive" />
